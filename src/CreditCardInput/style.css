@@ -1,0 +1,9 @@
+.inputs {
+  display: flex;
+  gap: 6px;
+  margin-top: 4px;;
+}
+
+input {
+  width: 4em;
+}
